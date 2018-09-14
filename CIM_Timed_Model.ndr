@@ -1,0 +1,858 @@
+t 2770.0 4195.0 t155 c 0 w n E2P20B1EsSt s
+t 3025.0 4195.0 t156 c 14 w n E2P20B1EsFi s
+t 1555.0 4495.0 t160 c 40 w n E2P21B2ToFi s
+t 2300.0 4495.0 t163 c 0 w n E2P21ToB2St s
+t 2540.0 4495.0 t164 c 28 w n E2P21ToB2Fi s
+t 2770.0 4495.0 t165 c 0 w n E2P20B2EsSt s
+t 3025.0 4495.0 t166 c 14 w n E2P20B2EsFi s
+t 600.0 4325.0 t145 c 0 w n E2RePaTePeBr s
+p 820.0 4110.0 p156 1 n E2B1 s
+p 2900.0 4495.0 p154 0 n E2RoTrTePePrB2Es s
+p 940.0 4495.0 p146 0 n E2RoTrTePeBrEsB2 s
+p 2900.0 4195.0 p144 0 n E2RoTrTePePrB1Es s
+p 410.0 1590.0 p1 1 n E1EsLi s
+p 850.0 1590.0 p48 0 n E1RoTrT1PeBrAsRf s
+p 820.0 4610.0 p157 1 n E2B2 s
+p 1165.0 4195.0 p137 0 n E2B1TePeBr s
+p 1685.0 4495.0 p149 0 n E2ToPeBrB2 s
+p 1905.0 4495.0 p150 0 n E2ToPeB2Ma s
+t 875.0 2665.0 t83 c 9 w n E8P1FiTrE1E2 s
+t 670.0 2665.0 t82 c 0 w n E8P1StTrE1E2 s
+t 875.0 2760.0 t85 c 9 w n E8P2FiTrE1E2 s
+t 670.0 2760.0 t84 c 0 w n E8P2StTrE1E2 s
+t 875.0 2860.0 t87 c 9 w n E8P3FiTrE1E2 s
+t 670.0 2860.0 t86 c 0 w n E8P3StTrE1E2 s
+t 875.0 2950.0 t89 c 9 w n E8P4FiTrE1E2 s
+t 670.0 2950.0 t88 c 0 w n E8P4StTrE1E2 s
+t 875.0 3045.0 t91 c 9 w n E8P5FiTrE1E2 s
+t 670.0 3045.0 t90 c 0 w n E8P5StTrE1E2 s
+t 670.0 3140.0 t92 c 0 w n E8P6StTrE1E2 s
+t 875.0 3235.0 t95 c 9 w n E8P7FiTrE1E2 s
+t 670.0 3235.0 t94 c 0 w n E8P7StTrE1E2 s
+t 875.0 3350.0 t97 c 9 w n E8P8FiTrE1E2 s
+t 670.0 3350.0 t96 c 0 w n E8P8StTrE1E2 s
+p 770.0 2665.0 p100 0 n E8P1TrE1E2 s
+p 770.0 2760.0 p101 0 n E8P2TrE1E2 s
+p 770.0 2860.0 p102 0 n E8P3TrE1E2 s
+p 770.0 2950.0 p103 0 n E8P4TrE1E2 s
+p 770.0 3045.0 p104 0 n E8P5TrE1E2 s
+p 770.0 3140.0 p105 0 n E8P6TrE1E2 s
+p 770.0 3235.0 p106 0 n E8P7TrE1E2 s
+p 770.0 3350.0 p107 0 n E8P8TrE1E2 s
+t 875.0 3450.0 t99 c 9 w n E8P9FiTrE1E2 s
+t 670.0 3450.0 t98 c 0 w n E8P9StTrE1E2 s
+p 770.0 3450.0 p108 0 n E8P9TrE1E2 s
+t 875.0 3545.0 t101 c 9 w n E8P10FiTrE1E2 s
+p 770.0 3545.0 p109 0 n E8P10TrE1E2 s
+p 560.0 3295.0 p99 0 n E8PaReE1 s
+p 975.0 3295.0 p114 0 n E8PaArE2 s
+t 1470.0 2680.0 t111 c 76 w n E8P1FiTrE2E1 s
+t 1255.0 2680.0 t110 c 0 w n E8P1StTrE2E1 s
+t 1470.0 2775.0 t113 c 76 w n E8P2FiTrE2E1 s
+t 1255.0 2775.0 t112 c 0 w n E8P2StTrE2E1 s
+t 1470.0 2870.0 t115 c 76 w n E8P3FiTrE2E1 s
+t 1255.0 2870.0 t114 c 0 w n E8P3StTrE2E1 s
+t 1470.0 2960.0 t117 c 76 w n E8P4FiTrE2E1 s
+t 1255.0 2960.0 t116 c 0 w n E8P4StTrE2E1 s
+t 1470.0 3055.0 t119 c 76 w n E8P5FiTrE2E1 s
+t 1255.0 3055.0 t118 c 0 w n E8P5StTrE2E1 s
+t 1470.0 3150.0 t121 c 76 w n E8P6FiTrE2E1 s
+t 1470.0 3245.0 t123 c 76 w n E8P7FiTrE2E1 s
+t 1470.0 3350.0 t125 c 76 w n E8P8FiTrE2E1 s
+t 1255.0 3350.0 t124 c 0 w n E8P8StTrE2E1 s
+p 1365.0 2680.0 p116 0 n E8P1TrE2E1 s
+p 1365.0 2775.0 p117 0 n E8P2TrE2E1 s
+p 1365.0 2870.0 p118 0 n E8P3TrE2E1 s
+p 1365.0 2960.0 p119 0 n E8P4TrE2E1 s
+p 1365.0 3055.0 p120 0 n E8P5TrE2E1 s
+p 1365.0 3150.0 p121 0 n E8P6TrE2E1 s
+p 1365.0 3245.0 p122 0 n E8P7TrE2E1 s
+p 1365.0 3350.0 p123 0 n E8P8TrE2E1 s
+t 1470.0 3440.0 t127 c 76 w n E8P9FiTrE2E1 s
+t 1255.0 3440.0 t126 c 0 w n E8P9StTrE2E1 s
+p 1365.0 3440.0 p124 0 n E8P9TrE2E1 s
+t 1470.0 3530.0 t129 c 76 w n E8P10FiTrE2E1 s
+t 1255.0 3530.0 t128 c 0 w n E8P10StTrE2E1 s
+p 1365.0 3530.0 p125 0 n E8P10TrE2E1 s
+t 1255.0 3625.0 t130 c 0 w n E8P11StTrE2E1 s
+p 1365.0 3625.0 p126 0 n E8P11TrE2E1 s
+t 1255.0 3710.0 t132 c 0 w n E8P12StTrE2E1 s
+p 1365.0 3710.0 p127 0 n E8P12TrE2E1 s
+t 1255.0 3805.0 t134 c 0 w n E8P13StTrE2E1 s
+p 1365.0 3805.0 p128 0 n E8P13TrE2E1 s
+t 1470.0 3895.0 t137 c 76 w n E8P14FiTrE2E1 s
+t 1255.0 3895.0 t136 c 0 w n E8P14StTrE2E1 s
+p 1365.0 3895.0 p129 0 n E8P14TrE2E1 s
+p 1565.0 3300.0 p130 14 n E8PaArE1 s
+p 1130.0 3300.0 p115 0 n E8PaReE2 s
+p 1160.0 1590.0 p49 0 n E1T1AsRfPeBrRf s
+p 580.0 105.0 p6 0 n E1RoTrT1PePrEsRf s
+t 715.0 105.0 t9 c 7 w n E1P11T1EsRjFi s
+p 845.0 105.0 p7 0 n E1T1EsRfPePrRf s
+p 580.0 305.0 p12 0 n E1RoTrT2PePrEsRf s
+p 845.0 305.0 p13 0 n E1T2EsRfPePrRf s
+p 580.0 540.0 p18 0 n E1RoTrT3PePrEsRf s
+p 845.0 540.0 p19 0 n E1T3EsRfPePrRf s
+p 590.0 770.0 p24 0 n E1RoTrT4PePrEsRf s
+p 855.0 770.0 p25 0 n E1T4EsRfPePrRf s
+p 580.0 970.0 p30 0 n E1RoTrT5PePrEsRf s
+p 845.0 970.0 p31 0 n E1T5EsRfPePrRf s
+p 575.0 1215.0 p36 0 n E1RoTrT6PePrEsRf s
+p 840.0 1215.0 p37 0 n E1T6EsRfPePrRf s
+t 715.0 305.0 t15 c 7 w n E1P11T2EsRfFi s
+t 715.0 540.0 t21 c 7 w n E1P11T3EsRfFi s
+p 310.0 960.0 p4 0 n E1EsPaTePePr s
+t 455.0 1440.0 t6 c 0 w n E1RePaTePePr s
+t 335.0 1440.0 t5 c 0 w n E1ArPaTePePr s
+t 260.0 1645.0 t3 c 0 w n E1ArPaTeVa s
+t 260.0 1555.0 t4 c 0 w n E1RePaTeVa s
+p 120.0 1600.0 p3 0 n E1EsPaTeVa s
+p 775.0 1520.0 p47 1 n E1T1DpTr s
+p 850.0 1760.0 p56 0 n E1RoTrT2PeBrAsRf s
+t 1025.0 1760.0 t53 c 22 w n E1P10T2AsRfFi s
+t 715.0 1760.0 t52 c 0 w n E1P10T2AsRfSt s
+p 1160.0 1760.0 p57 0 n E1T2AsRfPeBrRf s
+p 775.0 1690.0 p55 0 n E1T2DpTr s
+p 850.0 1930.0 p64 0 n E1RoTrT3PeBrAsRf s
+t 1025.0 1930.0 t59 c 22 w n E1P10T3AsRfFi s
+t 715.0 1930.0 t58 c 0 w n E1P10T3AsRfSt s
+p 1160.0 1930.0 p65 0 n E1T3AsRfPeBrRf s
+p 650.0 1860.0 p62 1 n E1T3PeBrAs s
+p 775.0 1860.0 p63 0 n E1T3DpTr s
+t 1280.0 1965.0 t62 c 0 w n E1P10T3RfEsSt s
+p 850.0 2100.0 p72 0 n E1RoTrT4PeBrAsRf s
+t 1025.0 2100.0 t65 c 22 w n E1P10T4AsRfFi s
+p 1160.0 2100.0 p73 0 n E1T4AsRfPeBrRf s
+p 650.0 2030.0 p70 1 n E1T4PeBrAs s
+p 775.0 2030.0 p71 0 n E1T4DpTr s
+p 850.0 2270.0 p80 0 n E1RoTrT5PeBrAsRf s
+t 1025.0 2270.0 t71 c 22 w n E1P10T5AsRfFi s
+t 715.0 2270.0 t70 c 0 w n E1P10T5AsRfSt s
+p 1160.0 2270.0 p81 0 n E1T5AsRfPeBrRf s
+p 650.0 2200.0 p78 1 n E1T5PeBrAs s
+p 775.0 2200.0 p79 0 n E1T5DpTr s
+p 850.0 2450.0 p88 0 n E1RoTrT6PeBrAsRf s
+t 1025.0 2450.0 t77 c 23 w n E1P10T6AsRfFi s
+t 715.0 2450.0 t76 c 0 w n E1P10T6AsRfSt s
+p 1160.0 2450.0 p89 0 n E1T6AsRfPeBrRf s
+p 650.0 2380.0 p86 1 n E1T6PeBrAs s
+p 775.0 2380.0 p87 0 n E1T6DpTr s
+t 1280.0 2485.0 t80 c 0 w n E1P10T6RfEsSt s
+t 1280.0 2395.0 t78 c 0 w n E1P10T6RjRfAsSt s
+t 515.0 1525.0 t7 c 8 w n E1RePaEv s
+p 565.0 1430.0 p5 0 n E1EsPaEv s
+t 420.0 1720.0 t45 c 0 w n E1RePaVa s
+t 280.0 1735.0 t2 c 0 w n E1RePaTePeBr s
+t 355.0 1800.0 t1 c 0 w n E1ArPaTePeBr s
+p 210.0 1945.0 p2 0 n E1EsPaTePeBr s
+p 305.0 3295.0 p97 0 n E8QtPaTeVaEt s
+p 405.0 3295.0 p98 14 n E8QtPaVaEt s
+t 875.0 3140.0 t93 c 9 w n E8P6FiTrE1E2 s
+t 670.0 3545.0 t100 c 0 w n E8P10StTrE1E2 s
+p 770.0 3640.0 p110 0 n E8P11TrE1E2 s
+t 670.0 3640.0 t102 c 0 w n E8P11StTrE1E2 s
+t 670.0 3740.0 t104 c 0 w n E8P12StTrE1E2 s
+p 770.0 3740.0 p111 0 n E8P12TrE1E2 s
+p 770.0 3830.0 p112 0 n E8P13TrE1E2 s
+t 670.0 3830.0 t106 c 0 w n E8P13StTrE1E2 s
+t 670.0 3920.0 t108 c 0 w n E8P14StTrE1E2 s
+p 770.0 3920.0 p113 0 n E8P14TrE1E2 s
+t 875.0 3640.0 t103 c 9 w n E8P11FiTrE1E2 s
+t 1255.0 3245.0 t122 c 0 w n E8P7StTrE2E1 s
+t 1255.0 3150.0 t120 c 0 w n E8P6StTrE2E1 s
+t 1470.0 3625.0 t131 c 76 w n E8P11FiTrE2E1 s
+t 1470.0 3710.0 t133 c 76 w n E8P12FiTrE2E1 s
+t 1470.0 3805.0 t135 c 76 w n E8P13FiTrE2E1 s
+t 255.0 4390.0 t140 c 0 w n E2ArPaTeVa s
+t 200.0 4310.0 t141 c 0 w n E2RePaTeVa s
+p 55.0 4395.0 p133 0 n E2EsPaTeVa s
+t 420.0 4505.0 t138 c 0 w n E2ArPaVa s
+p 315.0 4625.0 p132 0 n E2EsPaVa s
+p 1160.0 4495.0 p147 0 n E2B2TePeBr s
+p 945.0 4195.0 p136 0 n E2RoTrTePeBrEsB1 s
+p 1555.0 4350.0 p161 0 n E2RoTo s
+p 1430.0 4495.0 p148 0 n E2RoTrPeBrB2To s
+t 1795.0 4195.0 t151 c 0 w n E2T21B1St s
+t 1790.0 4495.0 t161 c 0 w n E2T21B2St s
+p 2170.0 4495.0 p151 0 n E2ToPeB2Pr s
+p 2425.0 4495.0 p152 0 n E2RoTrPePrToB2 s
+p 2665.0 4495.0 p153 0 n E2B2TePePr s
+n 20.0 3985.0 n2 1 {Modelo do Torno}
+p 3155.0 4345.0 p155 0 n E2EsPaTePePr s
+p 415.0 4325.0 p131 1 n E2EsLi s
+t 710.0 1215.0 t39 c 7 w n E1P11T6EsRfFi s
+t 715.0 970.0 t33 c 7 w n E1P11T5EsRfFi s
+t 725.0 770.0 t27 c 7 w n E1P11T4EsRfFi s
+t 445.0 105.0 t8 c 0 w n E1P11T1EsRfSt s
+t 445.0 305.0 t14 c 0 w n E1P11T2EsRfSt s
+t 445.0 540.0 t20 c 0 w n E1P11T3EsRfSt s
+t 455.0 770.0 t26 c 0 w n E1P11T4EsRfSt s
+t 450.0 970.0 t32 c 0 w n E1P11T5EsRfSt s
+t 445.0 1215.0 t38 c 0 w n E1P11T6EsRfSt s
+t 1285.0 4290.0 t170 c 0 w n E2M22St s
+t 1285.0 4405.0 t173 c 14 w n E2M21Fi s
+p 1375.0 4290.0 p160 0 n E2RoEsTo s
+t 1465.0 4290.0 t171 c 14 w n E2M22Fi s
+t 1465.0 4405.0 t172 c 0 w n E2M21St s
+p 1375.0 4405.0 p162 0 n E2RoToEs s
+p 1200.0 4355.0 p159 1 n E2RoEs s
+t 875.0 3740.0 t105 c 9 w n E8P12FiTrE1E2 s
+t 875.0 3830.0 t107 c 9 w n E8P13FiTrE1E2 s
+t 875.0 3920.0 t109 c 9 w n E8P14FiTrE1E2 s
+t 1555.0 4195.0 t150 c 40 w n E2P21B1ToFi s
+t 820.0 4195.0 t147 c 0 w n E2P20EsB1St s
+t 715.0 2100.0 t64 c 0 w n E1P10T4AsRfSt s
+t 1280.0 2135.0 t68 c 0 w n E1P10T4RfEsSt s
+p 710.0 4495.0 p145 0 n E2EsPaEv s
+t 600.0 4495.0 t146 c 9 w n E2RePaEv s
+t 1065.0 4195.0 t148 c 10 w n E2P20EsB1Fi s
+t 1055.0 4495.0 t158 c 10 w n E2P20EsB2Fi s
+t 2030.0 4495.0 t162 c 13 w n E2T21B2Fi s
+t 600.0 4195.0 t144 c 0 w n E2ArPaTePeBr s
+t 2300.0 4195.0 t153 c 0 w n E2P21ToB1St s
+p 2665.0 4195.0 p143 0 n E2B1TePePr s
+p 1905.0 4195.0 p140 0 n E2ToPeB1Ma s
+p 1685.0 4195.0 p139 0 n E2ToPeBrB1 s
+t 820.0 4495.0 t157 c 0 w n E2P20EsB2St s
+t 1290.0 4195.0 t149 c 0 w n E2P21B1ToSt s
+t 1290.0 4495.0 t159 c 0 w n E2P21B2ToSt s
+t 2040.0 4195.0 t152 c 13 w n E2T21B1Fi s
+p 2175.0 4195.0 p141 0 n E2ToPeB1Pr s
+t 2540.0 4195.0 t154 c 28 w n E2P21ToB1Fi s
+t 330.0 4455.0 t139 c 0 w n E2RePaVa s
+t 955.0 50.0 t10 c 0 w n E1P11T1RfAsSt s
+t 955.0 160.0 t12 c 0 w n E1P11T1FaRfAsSt s
+p 1090.0 50.0 p8 0 n E1RoTrT1PePrRfAs s
+p 1090.0 160.0 p10 0 n E1RoTrT1PePrFaRfAs s
+t 1240.0 160.0 t13 c 16 w n E1P11T1FaRfAsFi s
+t 955.0 255.0 t16 c 0 w n E1P11T2RfAsSt s
+t 955.0 365.0 t18 c 0 w n E1P11T2FaRfAsSt s
+p 1090.0 255.0 p14 0 n E1RoTrT2PePrRfAs s
+p 1090.0 365.0 p16 0 n E1RoTrT2PePrFaRfAs s
+t 1240.0 365.0 t19 c 16 w n E1P11T2FaRfAsFi s
+t 955.0 485.0 t22 c 0 w n E1P11T3RfAsSt s
+t 955.0 595.0 t24 c 0 w n E1P11T3FaRfAsSt s
+p 1090.0 485.0 p20 0 n E1RoTrT3PePrRfAs s
+p 1090.0 595.0 p22 0 n E1RoTrT3PePrFaRfAs s
+t 1240.0 595.0 t25 c 16 w n E1P11T3FaRfAsFi s
+p 1385.0 50.0 p9 0 n E1T1PePrAmAs s
+p 1380.0 365.0 p17 0 n E1T2PePrFaAmAs s
+p 1380.0 485.0 p21 0 n E1T3PePrAmAs s
+p 1375.0 595.0 p23 0 n E1T3PePrFaAmAs s
+p 1385.0 160.0 p11 0 n E1T1PePrFaAmAs s
+t 955.0 705.0 t28 c 0 w n E1P11T4RfAsSt s
+t 955.0 815.0 t30 c 0 w n E1P11T4FaRfAsSt s
+p 1090.0 705.0 p26 0 n E1RoTrT4PePrRfAs s
+p 1090.0 815.0 p28 0 n E1RoTrT4PePrFaRfAs s
+t 1240.0 815.0 t31 c 16 w n E1P11T4FaRfAsFi s
+p 1385.0 705.0 p27 0 n E1T4PePrAmAs s
+p 1385.0 815.0 p29 0 n E1T4PePrFaAmAs s
+t 950.0 920.0 t34 c 0 w n E1P11T5RfAsSt s
+t 950.0 1030.0 t36 c 0 w n E1P11T5FaRfAsSt s
+p 1085.0 920.0 p32 0 n E1RoTrT5PePrRfAs s
+p 1085.0 1030.0 p34 0 n E1RoTrT5PePrFaRfAs s
+t 1235.0 1030.0 t37 c 16 w n E1P11T5FaRfAsFi s
+t 1235.0 920.0 t35 c 16 w n E1P11T5RfAsFi s
+p 1380.0 920.0 p33 0 n E1T5PePrAmAs s
+p 1380.0 1030.0 p35 0 n E1T5PePrFaAmAs s
+p 1525.0 645.0 p42 0 n E1QtTePePrFaAmAs s
+p 1695.0 645.0 p43 0 n E1QtTePePrAmAs s
+p 1080.0 1150.0 p38 0 n E1RoTrT6PePrRfAs s
+p 1080.0 1260.0 p40 0 n E1RoTrT6PePrFaRfAs s
+t 1230.0 1260.0 t43 c 16 w n E1P11T6FaRfAsFi s
+t 1230.0 1150.0 t41 c 16 w n E1P11T6RfAsFi s
+p 1375.0 1150.0 p39 0 n E1T6PePrAmAs s
+p 1375.0 1260.0 p41 0 n E1T6PePrFaAmAs s
+t 1240.0 50.0 t11 c 16 w n E1P11T1RfAsFi s
+t 1240.0 255.0 t17 c 16 w n E1P11T2RfAsFi s
+t 1240.0 485.0 t23 c 16 w n E1P11T3RfAsFi s
+t 1240.0 705.0 t29 c 16 w n E1P11T4RfAsFi s
+n 25.0 35.0 n0 1 {Modelo do ASRS}
+t 1280.0 1795.0 t56 c 0 w n E1P10T2RfEsSt s
+p 1420.0 1535.0 p50 0 n E1RoTrT1RjPeBrRfAs s
+p 1695.0 1625.0 p53 0 n E1T1PeBrEs s
+t 1280.0 1875.0 t60 c 0 w n E1P10T3RjRfAsSt s
+t 1280.0 2045.0 t66 c 0 w n E1P10T4RjRfAsSt s
+t 1280.0 2215.0 t72 c 0 w n E1P10T5RjRfAsSt s
+t 1280.0 2305.0 t74 c 0 w n E1P10T5RfEsSt s
+t 1280.0 1705.0 t54 c 0 w n E1P10T2RjRfAsSt s
+t 1560.0 1535.0 t49 c 23 w n E1P10T1RjRfAsFi s
+p 1700.0 1705.0 p59 0 n E1T2RjPeBrAmAs s
+p 1420.0 1795.0 p60 0 n E1RoTrT2PeBrRfEs s
+p 1420.0 1705.0 p58 0 n E1RoTrT2RjPeBrRfAs s
+p 1700.0 1795.0 p61 0 n E1T2PeBrEs s
+t 1560.0 1795.0 t57 c 4 w n E1P10T2RfEsFi s
+t 1560.0 1705.0 t55 c 23 w n E1P10T2RjRfAsFi s
+p 1700.0 1875.0 p67 0 n E1T3RjPeBrAmAs s
+p 1420.0 1965.0 p68 0 n E1RoTrT3PeBrRfEs s
+p 1420.0 1875.0 p66 0 n E1RoTrT3RjPeBrRfAs s
+t 1560.0 1965.0 t63 c 4 w n E1P10T3RfEsFi s
+t 1560.0 1875.0 t61 c 23 w n E1P10T3RjRfAsFi s
+p 1700.0 1965.0 p69 0 n E1T3PeBrEs s
+p 1700.0 2045.0 p75 0 n E1T4RjPeBrAmAs s
+p 1420.0 2045.0 p74 0 n E1RoTrT4RjPeBrRfAs s
+t 1560.0 2135.0 t69 c 4 w n E1P10T4RfEsFi s
+t 1560.0 2045.0 t67 c 23 w n E1P10T4RjRfAsFi s
+p 1700.0 2135.0 p77 0 n E1T4PeBrEs s
+p 1700.0 2215.0 p83 0 n E1T5RjPeBrAmAs s
+p 1420.0 2305.0 p84 0 n E1RoTrT5PeBrRfEs s
+p 1420.0 2215.0 p82 0 n E1RoTrT5RjPeBrRfAs s
+t 1560.0 2305.0 t75 c 4 w n E1P10T5RfEsFi s
+t 1560.0 2215.0 t73 c 23 w n E1P10T5RjRfAsFi s
+p 1700.0 2305.0 p85 0 n E1T5PeBrEs s
+p 1700.0 2395.0 p91 0 n E1T6RjPeBrAmAs s
+p 1420.0 2485.0 p92 0 n E1RoTrT6PeBrRfEs s
+p 1420.0 2395.0 p90 0 n E1RoTrT6RjPeBrRfAs s
+t 1560.0 2485.0 t81 c 4 w n E1P10T5RfEsFi s
+t 1560.0 2395.0 t79 c 23 w n E1P10T5RjRfAsFi s
+p 1700.0 2485.0 p93 0 n E1T6PeBrEs s
+p 1700.0 1535.0 p51 0 n E1T1RjPeBrAmAs s
+t 1280.0 1625.0 t50 c 0 w n E1P10T1RfEsSt s
+p 1420.0 1625.0 p52 0 n E1RoTrT1PeBrRfEs s
+t 1560.0 1625.0 t51 c 4 w n E1P10T1RfEsFi s
+t 715.0 1590.0 t46 c 0 w n E1P10T1AsRfSt s
+p 650.0 1520.0 p46 1 n E1T1PeBrAs s
+t 500.0 1660.0 t44 c 0 w n E1ArPaVa s
+t 1280.0 1535.0 t48 c 0 w n E1P10T1RjRfAsSt s
+p 650.0 1690.0 p54 1 n E1T2PeBrAs s
+p 1420.0 2135.0 p76 0 n E1RoTrT4PeBrRfEs s
+t 945.0 1260.0 t42 c 0 w n E1P11T6FaRfAsSt s
+t 945.0 1150.0 t40 c 0 w n E1P11T6RfAsSt s
+t 1025.0 1590.0 t47 c 24 w n E1P10T1AsRfFi s
+p 1920.0 2015.0 p94 0 n E1QtTeRjPeBrAmAs s
+p 1380.0 255.0 p15 0 n E1T2PePrAmAs s
+p 1050.0 1420.0 p44 1 n E1RoLi s
+p 510.0 1820.0 p45 0 n E1EsPaVa s
+p 715.0 4195.0 p135 0 n E2EsPaTePeBr s
+p 1435.0 4195.0 p138 0 n E2RoTrPeBrB1To s
+p 2425.0 4195.0 p142 0 n E2RoTrPePrToB1 s
+n 20.0 2560.0 n1 1 {Modelo da Esteira}
+p 520.0 4710.0 p158 0 n E2EsPaTePePrDi s
+t 320.0 4260.0 t142 c 0 w n E2ArPaTePeBrDi s
+p 305.0 4105.0 p134 0 n E2EsPaTePeBrDi s
+t 590.0 4600.0 t168 c 0 w n E2ArPaTePePrDi s
+t 460.0 4600.0 t169 c 0 w n E2RePaTePePrDi s
+t 400.0 4190.0 t143 c 0 w n E2RePaTePeBrDi s
+t 510.0 4420.0 t167 c 0 w n E2RePaTePePr s
+p 195.0 3295.0 p96 0 n E8QtPaTePePrEt s
+p 80.0 3295.0 p95 0 n E8QtPaTePeBrEt s
+p 1905.0 4360.0 p163 1 n E2To s
+n 30.0 465.0 n6 0 {### Rótulos dos Lugares da E1 - ASRS   ###\\n\\nE1EsLi - Estação 1 Livre\\nE1EsPaEv - Estação 1 com o Pallet Esvaziado\\nE1EsPaTePeBr - Estação 1 com Pallet com Template com Peça Bruta\\nE1PaTePePr - Estação 1 com um Pallet com Template com Peça Pronta\\nE1EsPaTeVa - Estação 1 com um Pallet com Template Vazio\\nE1EsPaVa - Estação 1 com um Pallet Vazio\\nE1QtTeRjPeBrAmAs - Quantidade de Templates Rejeitados com Peça Bruta Armazenados no ASRS\\nE1QtTiPePrAmAs - Quantidade de Templates com Peças Prontas Armazenados no ASRS\\nE1QtTiPePrFaAmAs - Quantidade de Templates com Peças Prontas com Falha Armazenados no ASRS\\nE1RoLi - Robô Livre\\nE1RoTrTiPeBrAsRf - Robô Transportando o Template i com Peça Bruta do ASRS para o leitor de RFID\\nE1RoTrTiPeBrRfEs - Robô Transportando o Template i com Peça Bruta do leitor de RFID para a Estação 1\\nE1RoTrTiPePrEsRf - Robô Transportando o Template i com Peça Pronta da Estação 1 para o leitor de RFID\\nE1RoTrTiPePrFaRfAs - Robô Transportando o Template i com Peça Pronta com Falha do leitor de RFID para o ASRS\\nE1RoTrTiPePrRfAs - Robô Transportando o Template i com Peça Pronta do leitor de RFID para o ASRS\\nE1RoTrTiRjPeBrRfAs - Robô Transportando o Template i Rejeitado com Peça Bruta do leitor de RFID para o ASRS\\nE1TiPeBrEs - Template i com Peça Bruta na Estação 1\\nE1TiAsRfPeBrRf - Template i que veio do ASRS e vai para o leitor de RFID com Peça Bruta está no leitor de RFID\\nE1TiDpTr - Template i Disponível para Transporte\\nE1TiEsRfPePrRf - Template i que veio da Estação 1 e vai para o leitor de RFID com Peça Pronta está no leitor de RFID\\nE1TiPeBrAs - Template i com Peça Bruta no ASRS\\nE1TiPePrAmAs - Template i com Peça Pronta Armazenado no ASRS\\nE1TiPePrFaAmAs - Template i com Peça Pronta com Falha Armazenado no ASRS\\nE1TiRjPeBrAmAs - Template i Rejeitado com Peça Bruta Armazenado no ASRS}
+n 130.0 465.0 n7 0 {###   Rótulos das Transições da E1 - ASRS   ###\\n\\nE1ArPaTePeBr - Arrive Pallet com Template com Peça Bruta\\nE1ArPaTePePr - Arrive Pallet com Template com Peça Pronta\\nE1ArPaTeVa - Arrive Pallet com Template Vazio\\nE1ArPaVa - Arrive Pallet Vazio\\nE1RePaEv - Release Pallet Esvaziado\\nE1RePaTePeBr - Release Pallet com Template com Peça Bruta\\nE1RePaTePePr - Release Pallet com Template com Peça Pronta\\nE1RePaTeVa - Release Pallet com Template Vazio\\nE1RePaVa - Release Pallet Vazio\\nE1P10TiAsRfFi - Finish transporte do Template i com peça bruta do ASRS para o leitor de RFID\\nE1P10TiAsRfSt - Start transporte do Template i com peça bruta do ASRS para o leitor de RFID\\nE1P10TiRfEsFi - Finish transporte do Template i com peça bruta do leitor de RFID para a Estação 1\\nE1P10TiRfEsSt - Start transporte do Template i com peça bruta do leitor de RFID para a Estação 1\\nE1P10TiRjRfAsFi - Finish transporte do Template i Rejeitado com peça bruta do leitor de RFID para o ASRS\\nE1P10TiRjRfAsSt - Start transporte do Template i Rejeitado com peça bruta do leitor de RFID para o ASRS\\nE1P11TiEsRfFi - Finish transporte do Template i com peça pronta da Estação 1 para o leitor de RFID\\nE1P11TiEsRfSt - Start transporte do Template i com peça pronta da Estação 1 para o leitor de RFID\\nE1P11TiFaRfAsFi - Finish transporte do Template i com peça pronta com Falha do leitor de RFID para o ASRS\\nE1P11TiFaRfAsSt - Start transporte do Template i com peça pronta com Falha do leitor de RFID para o ASRS\\nE1P11TiRfAsFi - Finish transporte do Template i com peça pronta do leitor de RFID para o ASRS\\nE1P11TiRfAsSt - Start transporte do Template i com peça pronta do leitor de RFID para o ASRS}
+n 135.0 2745.0 n8 0 {###   Rótulos das Transições da Esteira   ###\\n\\nE8PiStTrEjEk - Pallet i Start Transporte da Estação j para a Estação k\\nE8PiFiTrEjEk - Pallet i Finish Transporte da Estação j para a Estação k}
+n 25.0 2745.0 n4 0 {###   Rótulos dos Lugares da Esteira   ###\\n\\nE8PaArEi - Pallet Arrive na Estação i\\nE8PaReEi - Pallet Release da Estação i\\nE8PiTrEjEk - Pallet i sendo Transportado da Estação j para a Estação k\\nE8QtPaTePeBrEt - Quantidade de Pallets com Template com Peça Bruta na Esteira\\nE8QtPaTePePrEt - Quantidade de Pallets com Template com Peça Pronta na Esteira\\nE8QtPaTeVaEt - Quantidade de Pallets com Template Vazio\\nE8QtPaVaEt - Quantidade de Pallets Vazios na Esteira}
+n 25.0 4655.0 n3 0 {###   Rótulos dos Lugares da E2 - Torno   ###\\n\\nE2BiLi - Buffer i Livre\\nE2BiTePeBr - Buffer i com Template com Peça Bruta\\nE2BiTePePr - Buffer i com Template com Peça Pronta\\nE2EsLi - Estação 2 Livre\\nE2EsPaEv - Estação 2 com Pallet Esvaziado\\nE2EsPaTePeBr - Estação 2 com Pallet com Template com Peça Bruta\\nE2EsPaTePeBrDi - Estação 2 com Pallet com Template com Peça Bruta Diferente\\nE2EsPaTePePr - Estação 2 com Pallet com Template com Peça Pronta\\nE2EsPaTePePrDi - Estação 2 com Pallet com Template com Peça Pronta Diferente\\nE2EsPaTeVa - Estação 2 com Pallet com Template Vazio\\nE2EsPaVa - Estação 2 com Pallet Vazio\\nE2RoEs - Robô na Estação 2\\nE2RoTo - Robô na Torno\\nE2RoTrEsTo - Robô sendo Transportado da Estação para o Torno\\nE2RoTrTePeBrEsBi - Robô Transportando o Template com Peça Bruta da Estação para o Buffer i\\nE2RoTrPeBrBiTo - Robô Transportando a Peça Bruta do Buffer i para o Torno\\nE2RoTrTePePrBiEs - Robô Transportando o Template com Peça Pronta do Buffer i para a Estação\\nE2RoTrPePrToBi - Robô Transportando a Peça Pronta do Torno para Buffer i\\nE2RoTrToEs - Robô sendo Transportado do Torno para a Estação\\nE2ToLi - Torno Livre\\nE2ToPeBrBi - Torno com Peça Bruta do Buffer i\\nE2ToPeBiMa - Torno com Peça do Buffer i sendo Manufaturada\\nE2ToPeBiPr - Torno com Peça do Buffer i Pronta}
+n 110.0 4655.0 n5 0 {###   Rótulos das Transições da E2 - Torno   ###\\n\\nE1ArPaTePeBr - Arrive Pallet com Template com Peça Bruta\\nE1ArPaTePeBrDi - Arrive Pallet com Template com Peça Bruta Diferente\\nE1ArPaTePePr - Arrive Pallet com Template com Peça Pronta\\nE1ArPaTePePrDi - Arrive Pallet com Template com Peça Pronta Diferente\\nE1ArPaTeVa - Arrive Pallet com Template Vazio\\nE1ArPaVa - Arrive Pallet Vazio\\nE1RePaEv - Release Pallet Esvaziado\\nE1RePaTePeBr - Release Pallet com Template com Peça Bruta\\nE1RePaTePeBrDi - Release Pallet com Template com Peça Bruta Diferente\\nE1RePaTePePr - Release Pallet com Template com Peça Pronta\\nE1RePaTePePrDi - Release Pallet com Template com Peça Pronta Diferente\\nE1RePaTeVa - Release Pallet com Template Vazio\\nE1RePaVa - Release Pallet Vazio\\nE2M21Fi - Finish do LSB se deslocando do Torno para a Estação\\nE2M21St - Start do LSB se deslocando do Torno para a Estação\\nE2M22Fi - Finish do LSB se deslocando da Estação para o Torno\\nE2M22St - Start do LSB se deslocando da Estação para o Torno\\nE2P20BiEsFi - robô transportando o template com peça pronta do Buffer i para Estação Finish\\nE2P20BiEsSt - robô transportando o template com peça pronta do Buffer i para Estação Start\\nE2P20EsBiFi - robô transportando o template com peça bruta da Estação para o Buffer Finish\\nE2P20EsBiSt - robô transportando o template com peça bruta da Estação para o Buffer Start\\nE2P21BiToFi - robô transportando a peça bruta do Buffer i para o Torno Finish\\nE2P21BiToSt - robô transportando a peça bruta do Buffer i para o Torno Start\\nE2P21ToBiFi - robô transportando a peça pronta do Torno para o Buffer i Finish\\nE2P21ToBiSt - robô transportando a peça pronta do Torno para o Buffer i Start\\nE2T21BiFi - Finish Torno manufaturando peça do Buffer i\\nE2T21BiSt - Start Torno manufaturando peça do Buffer i}
+e t169 p96 1 n
+e t169 p115 1 n
+e p96 t168 1 n
+e p114 t168 1 n
+e t169 p131 1 n
+e p158 t169 1 n
+e t168 p158 1 n
+e p131 t168 1 n
+e t11 p44 1 n
+e t13 p44 1 n
+e t17 p44 1 n
+e t19 p44 1 n
+e t23 p44 1 n
+e t25 p44 1 n
+e t29 p44 1 n
+e t31 p44 1 n
+e t35 p44 1 n
+e t37 p44 1 n
+e t41 p44 1 n
+e t43 p44 1 n
+e p37 t42 1 n
+e p37 t40 1 n
+e t43 p41 1 n
+e t41 p39 1 n
+e t43 p42 1 n
+e t41 p43 1 n
+e p40 t43 1 n
+e t42 p40 1 n
+e p38 t41 1 n
+e t40 p38 1 n
+e p31 t36 1 n
+e p31 t34 1 n
+e t34 p32 1 n
+e p32 t35 1 n
+e t36 p34 1 n
+e p34 t37 1 n
+e t35 p43 1 n
+e t37 p42 1 n
+e t35 p33 1 n
+e t37 p35 1 n
+e p25 t30 1 n
+e p25 t28 1 n
+e t28 p26 1 n
+e p26 t29 1 n
+e t30 p28 1 n
+e p28 t31 1 n
+e t29 p43 1 n
+e t31 p42 1 n
+e t29 p27 1 n
+e t31 p29 1 n
+e t25 p23 1 n
+e t23 p21 1 n
+e t19 p17 1 n
+e t17 p15 1 n
+e t13 p11 1 n
+e t11 p9 1 n
+e p19 t24 1 n
+e p19 t22 1 n
+e t25 p42 1 n
+e t23 p43 1 n
+e p22 t25 1 n
+e t24 p22 1 n
+e p20 t23 1 n
+e t22 p20 1 n
+e p13 t18 1 n
+e p13 t16 1 n
+e t16 p14 1 n
+e p14 t17 1 n
+e t18 p16 1 n
+e p16 t19 1 n
+e t17 p43 1 n
+e t19 p42 1 n
+e t13 p42 1 n
+e t11 p43 1 n
+e p10 t13 1 n
+e t12 p10 1 n
+e p7 t12 1 n
+e p8 t11 1 n
+e t10 p8 1 n
+e p7 t10 1 n
+e p162 t173 1 n
+e t172 p162 1 n
+e p161 t172 1 n
+e t171 p161 1 n
+e p160 t171 1 n
+e t170 p160 1 n
+e p44 t8 1 n
+e p61 t14 1 n
+e p44 t38 1 n
+e p44 t32 1 n
+e p44 t20 1 n
+e p44 t14 1 n
+e t70 p87 1 n
+e p89 t80 1 n
+e p89 t78 1 n
+e t77 p89 1 n
+e p88 t77 1 n
+e t76 p88 1 n
+e p44 t76 1 n
+e p45 t76 1 n
+e p86 t76 1 n
+e p87 t76 1 n
+e t58 p71 1 n
+e p73 t68 1 n
+e p73 t66 1 n
+e t65 p73 1 n
+e p72 t65 1 n
+e t64 p72 1 n
+e p44 t64 1 n
+e p45 t64 1 n
+e p70 t64 1 n
+e p71 t64 1 n
+e p79 t70 1 n
+e p78 t70 1 n
+e p45 t70 1 n
+e p44 t70 1 n
+e t70 p80 1 n
+e p80 t71 1 n
+e t71 p81 1 n
+e p81 t72 1 n
+e p81 t74 1 n
+e t64 p79 1 n
+e t52 p63 1 n
+e p65 t62 1 n
+e p65 t60 1 n
+e t59 p65 1 n
+e p64 t59 1 n
+e t58 p64 1 n
+e p44 t58 1 n
+e p45 t58 1 n
+e p62 t58 1 n
+e p63 t58 1 n
+e t46 p55 1 n
+e p55 t52 1 n
+e p54 t52 1 n
+e p45 t52 1 n
+e p44 t52 1 n
+e t52 p56 1 n
+e p56 t53 1 n
+e t53 p57 1 n
+e p57 t54 1 n
+e p57 t56 1 n
+e t137 p130 1 n
+e t135 p130 1 n
+e t133 p130 1 n
+e t131 p130 1 n
+e t129 p130 1 n
+e t127 p130 1 n
+e p115 t136 1 n
+e p115 t134 1 n
+e p115 t132 1 n
+e p115 t130 1 n
+e p115 t128 1 n
+e p115 t126 1 n
+e t125 p130 1 n
+e t123 p130 1 n
+e t121 p130 1 n
+e t119 p130 1 n
+e t117 p130 1 n
+e t115 p130 1 n
+e t113 p130 1 n
+e t111 p130 1 n
+e p115 t124 1 n
+e p115 t122 1 n
+e p115 t120 1 n
+e p115 t118 1 n
+e p115 t116 1 n
+e p115 t114 1 n
+e p115 t112 1 n
+e p115 t110 1 n
+e p116 t111 1 n
+e t110 p116 1 n
+e t112 p117 1 n
+e p117 t113 1 n
+e t114 p118 1 n
+e p118 t115 1 n
+e t116 p119 1 n
+e p119 t117 1 n
+e t118 p120 1 n
+e p120 t119 1 n
+e t120 p121 1 n
+e p121 t121 1 n
+e t122 p122 1 n
+e p122 t123 1 n
+e t124 p123 1 n
+e p123 t125 1 n
+e p124 t127 1 n
+e t126 p124 1 n
+e t128 p125 1 n
+e p125 t129 1 n
+e t130 p126 1 n
+e p126 t131 1 n
+e t132 p127 1 n
+e p127 t133 1 n
+e t134 p128 1 n
+e p128 t135 1 n
+e t136 p129 1 n
+e p129 t137 1 n
+e t109 p114 1 n
+e p99 t108 1 n
+e p113 t109 1 n
+e t108 p113 1 n
+e t107 p114 1 n
+e p99 t106 1 n
+e p112 t107 1 n
+e t106 p112 1 n
+e t105 p114 1 n
+e p99 t104 1 n
+e p111 t105 1 n
+e t104 p111 1 n
+e t103 p114 1 n
+e p99 t102 1 n
+e p110 t103 1 n
+e t102 p110 1 n
+e t101 p114 1 n
+e p99 t100 1 n
+e p109 t101 1 n
+e t100 p109 1 n
+e t98 p108 1 n
+e p108 t99 1 n
+e p99 t98 1 n
+e t99 p114 1 n
+e t97 p114 1 n
+e p99 t96 1 n
+e p107 t97 1 n
+e t96 p107 1 n
+e t95 p114 1 n
+e p99 t94 1 n
+e p106 t95 1 n
+e t94 p106 1 n
+e t93 p114 1 n
+e p99 t92 1 n
+e p105 t93 1 n
+e t92 p105 1 n
+e t91 p114 1 n
+e p99 t90 1 n
+e p104 t91 1 n
+e t90 p104 1 n
+e t89 p114 1 n
+e p99 t88 1 n
+e p103 t89 1 n
+e t88 p103 1 n
+e t87 p114 1 n
+e p99 t86 1 n
+e p102 t87 1 n
+e t86 p102 1 n
+e t85 p114 1 n
+e p99 t84 1 n
+e p101 t85 1 n
+e t84 p101 1 n
+e p130 t1 1 n
+e t7 p98 1 n
+e p96 t5 1 n
+e t146 p98 1 n
+e t143 p131 1 n
+e p134 t143 1 n
+e p131 t142 1 n
+e t142 p134 1 n
+e t140 p133 1 n
+e p131 t140 1 n
+e p133 t141 1 n
+e t141 p131 1 n
+e t143 p95 1 n
+e p95 t142 1 n
+e t145 p95 1 n
+e p95 t144 1 n
+e t141 p97 1 n
+e p97 t140 1 n
+e t139 p98 1 n
+e p98 t138 1 n
+e t7 p1 1 n
+e p1 t1 1 n
+e t1 p2 1 n
+e p2 t2 1 n
+e t2 p1 1 n
+e p49 t50 1 n
+e t48 p50 1 n
+e p49 t48 1 n
+e t47 p49 1 n
+e p48 t47 1 n
+e t46 p48 1 n
+e p44 t46 1 n
+e p45 t46 1 n
+e p5 t7 1 n
+e t173 p159 1 n
+e p159 t170 1 n
+e p155 t167 1 n
+e t167 p131 1 n
+e t166 p155 1 n
+e t156 p155 1 n
+e p132 t165 1 n
+e p132 t155 1 n
+e t166 p159 1 n
+e t156 p159 1 n
+e p159 t165 1 n
+e p159 t155 1 n
+e t164 p159 1 n
+e t154 p159 1 n
+e p161 t163 1 n
+e p161 t153 1 n
+e t160 p161 1 n
+e t150 p161 1 n
+e p159 t159 1 n
+e p159 t149 1 n
+e t158 p159 1 n
+e t148 p159 1 n
+e p159 t147 1 n
+e p159 t157 1 n
+e t165 p157 1 n
+e p157 t157 1 n
+e t155 p156 1 n
+e p156 t147 1 n
+e p154 t166 1 n
+e t158 p147 1 n
+e p147 t159 1 n
+e t159 p148 1 n
+e p148 t160 1 n
+e t160 p149 1 n
+e p149 t161 1 n
+e t161 p150 1 n
+e p150 t162 1 n
+e t162 p151 1 n
+e p151 t163 1 n
+e t163 p152 1 n
+e p152 t164 1 n
+e t164 p153 1 n
+e p153 t165 1 n
+e t165 p154 1 n
+e p146 t158 1 n
+e p144 t156 1 n
+e t155 p144 1 n
+e p143 t155 1 n
+e t154 p143 1 n
+e p142 t154 1 n
+e t153 p142 1 n
+e p141 t153 1 n
+e t152 p141 1 n
+e p140 t152 1 n
+e t151 p140 1 n
+e p139 t151 1 n
+e t150 p139 1 n
+e p138 t150 1 n
+e t149 p138 1 n
+e p137 t149 1 n
+e t148 p137 1 n
+e p136 t148 1 n
+e t157 p146 1 n
+e t147 p136 1 n
+e p135 t157 1 n
+e p135 t147 1 n
+e t157 p145 1 n
+e t147 p145 1 n
+e t146 p131 1 n
+e p145 t146 1 n
+e t144 p135 1 n
+e p131 t144 1 n
+e t145 p131 1 n
+e p135 t145 1 n
+e t139 p131 1 n
+e p132 t139 1 n
+e t138 p132 1 n
+e p131 t138 1 n
+e t6 p1 1 n
+e p1 t5 1 n
+e p1 t3 1 n
+e t4 p1 1 n
+e p1 t44 1 n
+e t45 p1 1 n
+e t44 p45 1 n
+e p45 t45 1 n
+e t3 p3 1 n
+e p3 t4 1 n
+e t5 p4 1 n
+e p4 t6 1 n
+e p95 t1 1 n
+e p98 t44 1 n
+e p97 t3 1 n
+e t45 p98 1 n
+e t4 p97 1 n
+e t6 p96 1 n
+e t2 p95 1 n
+e t167 p96 1 n
+e t2 p99 1 n
+e t4 p99 1 n
+e t6 p99 1 n
+e t7 p99 1 n
+e t45 p99 1 n
+e p114 t144 1 n
+e p114 t138 1 n
+e p114 t140 1 n
+e p114 t142 1 n
+e t143 p115 1 n
+e t145 p115 1 n
+e t146 p115 1 n
+e t167 p115 1 n
+e t139 p115 1 n
+e t141 p115 1 n
+e p130 t44 1 n
+e p130 t5 1 n
+e p130 t3 1 n
+e t82 p100 1 n
+e p100 t83 1 n
+e p99 t82 1 n
+e t83 p114 1 n
+e p46 t46 1 n
+e p47 t46 1 n
+e p4 t8 1 n
+e t8 p6 1 n
+e t8 p5 1 n
+e p6 t9 1 n
+e t9 p7 1 n
+e t15 p13 1 n
+e p12 t15 1 n
+e t14 p5 1 n
+e t14 p12 1 n
+e p4 t14 1 n
+e t21 p19 1 n
+e p18 t21 1 n
+e t20 p5 1 n
+e t20 p18 1 n
+e p4 t20 1 n
+e t27 p25 1 n
+e p24 t27 1 n
+e t26 p5 1 n
+e t26 p24 1 n
+e p4 t26 1 n
+e t33 p31 1 n
+e p30 t33 1 n
+e t32 p5 1 n
+e t32 p30 1 n
+e p4 t32 1 n
+e t39 p37 1 n
+e p36 t39 1 n
+e t38 p5 1 n
+e t38 p36 1 n
+e p4 t38 1 n
+e p53 t8 1 n
+e p69 t20 1 n
+e p77 t26 1 n
+e p85 t32 1 n
+e p93 t38 1 n
+e t50 p52 1 n
+e p52 t51 1 n
+e p50 t49 1 n
+e t49 p51 1 n
+e t49 p44 1 n
+e t51 p44 1 n
+e t51 p53 1 n
+e t49 p94 1 n
+e t49 p45 1 n
+e t51 p2 1 n
+e t57 p2 1 n
+e t55 p45 1 n
+e t55 p94 1 n
+e t57 p44 1 n
+e t55 p44 1 n
+e t55 p59 1 n
+e p58 t55 1 n
+e p60 t57 1 n
+e t54 p58 1 n
+e t56 p60 1 n
+e t57 p61 1 n
+e p68 t63 1 n
+e p66 t61 1 n
+e t61 p67 1 n
+e t61 p44 1 n
+e t63 p44 1 n
+e t61 p94 1 n
+e t61 p45 1 n
+e t63 p2 1 n
+e t60 p66 1 n
+e t62 p68 1 n
+e t63 p69 1 n
+e t69 p2 1 n
+e t67 p45 1 n
+e t67 p94 1 n
+e t69 p44 1 n
+e t67 p44 1 n
+e t67 p75 1 n
+e p74 t67 1 n
+e p76 t69 1 n
+e t66 p74 1 n
+e t68 p76 1 n
+e t69 p77 1 n
+e p84 t75 1 n
+e p82 t73 1 n
+e t73 p83 1 n
+e t73 p44 1 n
+e t75 p44 1 n
+e t73 p94 1 n
+e t73 p45 1 n
+e t75 p2 1 n
+e t72 p82 1 n
+e t74 p84 1 n
+e t75 p85 1 n
+e t81 p2 1 n
+e t79 p45 1 n
+e t79 p94 1 n
+e t81 p44 1 n
+e t79 p44 1 n
+e t79 p91 1 n
+e p90 t79 1 n
+e p92 t81 1 n
+e t78 p90 1 n
+e t80 p92 1 n
+e t81 p93 1 n
+e p163 t159 1 n
+e p163 t149 1 n
+e t154 p163 1 n
+e t164 p163 1 n
+h CIM_Timed_Model
+
+
